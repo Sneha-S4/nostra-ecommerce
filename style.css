@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0.1%;
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -10,7 +10,7 @@ body{
   justify-content:space-between;
   align-items: center;
   padding: 10px;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .navbar-links{
     display:flex;
